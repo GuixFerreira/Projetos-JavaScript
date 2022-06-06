@@ -1,2 +1,2 @@
-# Projetos-JavaScript
+# Projetos JavaScript
 Projetos básicos usando JavaScript.
